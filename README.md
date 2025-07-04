@@ -16,7 +16,7 @@
 
 不过在浏览此类内容时，也需注意安全，尽量避免跳转不明链接，启用广告拦截器并不输入任何个人信息，确保设备与隐私安全。收藏可靠的资源站，将大大提升你的观影效率与体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250704/fkt20250704 ）</span>
 
 
 
